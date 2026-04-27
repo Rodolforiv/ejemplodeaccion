@@ -1,0 +1,8 @@
+name: Hola a todos desde el grupo primero 1
+on: [push]
+jobs:
+  saludar:
+  runs-on:
+  steps:
+  -name: MUESTRA MENSAJE DE SALUDAR A TODOS LOS DEL GRUPO
+  run:echo "Hola a todos"
