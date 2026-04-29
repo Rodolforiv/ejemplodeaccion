@@ -4,5 +4,5 @@ jobs:
   saludar:
   runs-on:
   steps:
-  -name: MUESTRA MENSAJE DE SALUDAR A TODOS LOS DEL GRUPO
-  run:echo "Hola a todos"
+  -name: muestra mensaje de saludar a todo el grupo
+ 
