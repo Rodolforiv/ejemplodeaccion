@@ -5,5 +5,5 @@ jobs:
   runs-on:
   steps:
   -name: muestra mensaje de saludar a todo el grupo
-
+  run:echo  'Hola'
  
